@@ -6,8 +6,8 @@ class Title extends Component {
     render() {
         return (
             <div>
-            <h2 className="article-title">Gold Madness - Fact or Fiction?</h2>
-            <Author />
+                <h2 className="article-title">Gold Madness - Fact or Fiction?</h2>
+                <Author />
             </div>
         )
     }

@@ -10,14 +10,14 @@ class Main extends Component {
     render() {
         return (
             <main className="expanded row">
-          <div className="large-8 medium-12 columns article">
-            <Title />
-            <Body />
-            <Buttons />
-          </div>
-          <Sponsor />
-          <Links />
-        </main>
+                <div className="large-8 medium-12 columns article">
+                    <Title />
+                    <Body />
+                    <Buttons />
+                </div>
+                <Sponsor />
+                <Links />
+            </main>
         )
     }
 }
